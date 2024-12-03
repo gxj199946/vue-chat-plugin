@@ -59,13 +59,13 @@ app.use(ChatPlugin)
 
 ![Demo](./demo.gif)
 
-## Demo
+<!-- ## Demo -->
 
-![Demo Video](./demo.mp4)
+<!-- ![Demo Video](./demo.mp4) -->
 
-## Demo
+<!-- ## Demo -->
 
-<video src="./demo.mp4" controls></video>
+<!-- <video src="./demo.mp4" controls></video> -->
 
 <!-- ## Demo -->
 
