@@ -5,6 +5,26 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "keywords": [
+    "vue",
+    "chat",
+    "ai",
+    "component",
+    "plugin"
+  ],
+  "author": "gxj199946",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxj199946/vue-chat-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gxj199946/vue-chat-plugin/issues"
+  },
+  "homepage": "https://github.com/gxj199946/vue-chat-plugin#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],

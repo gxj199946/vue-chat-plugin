@@ -56,3 +56,13 @@ app.use(ChatPlugin)
 - Real-time message streaming
 - Auto-resizing input
 - Customizable styling
+
+## Demo
+
+![Demo Video](./chat.mp4)
+
+或者你也可以这样展示：
+
+## Demo
+
+https://github.com/gxj199946/vue-chat-plugin/raw/main/chat.mp4
