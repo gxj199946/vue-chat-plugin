@@ -57,12 +57,16 @@ app.use(ChatPlugin)
 - Auto-resizing input
 - Customizable styling
 
-## Demo
-
-![Demo Video](./chat.mp4)
-
-或者你也可以这样展示：
+![Demo](./demo.gif)
 
 ## Demo
 
-https://github.com/gxj199946/vue-chat-plugin/raw/main/chat.mp4
+![Demo Video](./demo.mp4)
+
+## Demo
+
+<video src="./demo.mp4" controls></video>
+
+<!-- ## Demo -->
+
+<!-- https://github.com/gxj199946/vue-chat-plugin/raw/main/demo.mp4  -->
